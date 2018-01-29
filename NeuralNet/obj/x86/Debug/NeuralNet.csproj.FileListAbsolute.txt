@@ -1,0 +1,7 @@
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\NeuralNet\NeuralNet\bin\Debug\NeuralNet.exe
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\NeuralNet\NeuralNet\bin\Debug\NeuralNet.pdb
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\NeuralNet\NeuralNet\obj\x86\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\NeuralNet\NeuralNet\obj\x86\Debug\NeuralNet.exe
+C:\Users\MORPHEUS\documents\visual studio 2010\Projects\NeuralNet\NeuralNet\obj\x86\Debug\NeuralNet.pdb
+C:\dev\github-01-28-2018\NeuralNet\NeuralNet\obj\x86\Debug\NeuralNet.exe
+C:\dev\github-01-28-2018\NeuralNet\NeuralNet\obj\x86\Debug\NeuralNet.pdb
